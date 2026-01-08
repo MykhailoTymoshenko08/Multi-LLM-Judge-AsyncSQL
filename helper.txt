@@ -3,6 +3,6 @@
 
 
 
-SystemMessage — інструкція (ти помічник).
-HumanMessage — твоє питання.
-AIMessage — відповідь ШІ.
+SystemMessage — інструкція
+HumanMessage — питання
+AIMessage — відповідь ШІ
