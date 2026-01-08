@@ -22,6 +22,8 @@
 - **LangChain**
 - **SQLite3**
 - **dotenv**
+- **langchain-openai
+- **langchain-core
 - **OpenRouter API**
 - **asyncio**
 
