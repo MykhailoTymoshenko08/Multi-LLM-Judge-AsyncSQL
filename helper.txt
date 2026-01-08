@@ -1,0 +1,8 @@
+
+
+
+
+
+SystemMessage — інструкція (ти помічник).
+HumanMessage — твоє питання.
+AIMessage — відповідь ШІ.
